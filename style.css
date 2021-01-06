@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.icon{
+    height: 50px;
+}
+ul li{
+    display: inline;
+    padding: 12px 20px;
+    float: right;
+}
+section{
+    height: 700px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 25px;
+}
+p{ text-align: left;
+    color: dimgray;
+    font-size: 25px;
+}
+#name-color{
+    color: orange;
+}
+.half-width{
+    
+    margin-left: 5%;
+    padding: 30px 20px;
+    width: 40%;
+    height:70%;
+    float: left;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( 80deg, lightsalmon, red);
+    padding: 25px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
+.onethird-width{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    margin-left: 5%;
+    padding: 1%;
+    float: left;
+    width: 25%;
+    height:57%
+    
+}
+
+.onethird-width img{
+    width: 100%;
+}
+#a{
+    color: orange;
+    font-size: 35px;
+    font-weight: 800;
+}
+#b{
+    color: palegreen;
+    font-size: 35px;
+    font-weight: 800;
+}
+#c{
+    color:rgb(185, 197, 15);
+    font-size: 35px;
+    font-weight: 800;
+}
+#color-name{
+    text-align: center;
+}
